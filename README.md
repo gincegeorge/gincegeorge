@@ -2,4 +2,4 @@
 
 👀 I'm Gince, Fullstack Developer passionate about the open-source world and developing solutions using technology, focused on solving problems in the areas of Web and Mobile.
 
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better
+💞️ Please feel free to clone projects, raise issues and submit PRs if you think something could be better
