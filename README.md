@@ -1,4 +1,2 @@
-### 💫  A passionate full stack developer from Kerala, India!
-
-#### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gincegeorge) 
-
+<!-- Title -->
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
